@@ -1,5 +1,9 @@
 # auth-doge
 
+## Demo
+
+https://www.loom.com/share/37784027fc174b108a9f704d63a92494
+
 This is an example app which showcases:
 
 - NextJS with server side rendering
@@ -90,6 +94,3 @@ API: The URL and API path for where the API is hosted (e.g. "https://auth-doge-a
 
 Of course, the `api` and `app` folders could just be split into two separate repos.
 
-## Demo
-
-https://www.loom.com/share/37784027fc174b108a9f704d63a92494
