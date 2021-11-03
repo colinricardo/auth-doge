@@ -51,6 +51,6 @@
     "styletron-react": "^5.0.1",
     "ts-jest": "^24.2.0",
     "typescript": "^3.7.3",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
